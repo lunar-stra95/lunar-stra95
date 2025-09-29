@@ -54,6 +54,19 @@ I'm an **AI/ML Engineer** and a **BS Computer Science student at GCUF** with a s
 </p>  
 
 ---
+
+
+
+## 🤝 Connect with Me  
+
+<p align="left">  
+  <a href="mailto:lunarstra95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/m-noor-baloch-56935130a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="tel:+923000621965"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
+</p>  
+
+
+
 ### 📊 GitHub Stats  
 
 <p align="center">
@@ -68,13 +81,3 @@ I'm an **AI/ML Engineer** and a **BS Computer Science student at GCUF** with a s
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lunar-stra95&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="GitHub Trophies"/>
 </p>
-
-
-## 🤝 Connect with Me  
-
-<p align="left">  
-  <a href="mailto:lunarstra95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-  <a href="https://www.linkedin.com/in/m-noor-baloch-56935130a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="tel:+923000621965"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
-</p>  
-

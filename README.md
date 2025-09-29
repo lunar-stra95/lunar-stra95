@@ -11,3 +11,16 @@ I'm an **AI/ML Engineer** and a **BS Computer Science student at GCUF** with a s
 
 ✨ Always eager to explore **cutting-edge AI research** and contribute to projects that create real-world impact.  
 
+
+🛠️ My Skill Set
+🧠 Machine Learning & Deep Learning
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="40"/> <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> <img src="https://skillicons.dev/icons?i=pytorch" height="40"/> <img src="https://skillicons.dev/icons?i=opencv" height="40"/> <img src="https://skillicons.dev/icons?i=numpy" height="40"/> <img src="https://skillicons.dev/icons?i=pandas" height="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/> <img src="https://skillicons.dev/icons?i=matplotlib" height="40"/> <img src="https://skillicons.dev/icons?i=seaborn" height="40"/> <img src="https://skillicons.dev/icons?i=anaconda" height="40"/> </p>
+
+Specialized Areas: CNNs 🖼️ | ANNs 🧬 | RNNs 🔄 | Transformers 🔥 | LLM Reasoning 🤖 | Generative AI ✨
+
+📊 Research & Academic Tools
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="40" title="Google Scholar"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/ArXiv_logo.svg" height="40" title="arXiv"/> <img src="https://skillicons.dev/icons?i=latex" height="40" title="LaTeX"/> <img src="https://skillicons.dev/icons?i=markdown" height="40" title="Markdown"/> <img src="https://skillicons.dev/icons?i=notion" height="40" title="Notion"/> </p>
+💻 Programming & Dev Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,html,css,js,ts,react,nodejs,express,mysql,mongodb,git,github,vscode" height="40"/> </p>
+🤝 Connect with Me
+<p align="left"> <a href="mailto:lunarstra95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/m-noor-baloch-56935130a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="tel:+923000621965"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> </p>

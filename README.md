@@ -11,8 +11,7 @@ I'm an **AI/ML Engineer** and a **BS Computer Science student at GCUF** with a s
 
 ✨ Always eager to explore **cutting-edge AI research** and contribute to projects that create real-world impact.  
 
-
-## 🛠️ My Skill Set  
+## 🛠️ My Skill Set
 
 ### 🧠 Machine Learning & Deep Learning  
 <p align="left">  
@@ -22,10 +21,12 @@ I'm an **AI/ML Engineer** and a **BS Computer Science student at GCUF** with a s
   <img src="https://skillicons.dev/icons?i=opencv" height="40"/>  
   <img src="https://skillicons.dev/icons?i=numpy" height="40"/>  
   <img src="https://skillicons.dev/icons?i=pandas" height="40"/>  
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/>  
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="40"/>  
-  <img src="https://skillicons.dev/icons?i=seaborn" height="40"/>  
-  <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>  
+
+  <!-- Custom Shields.io for ML Libraries not on skillicons -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>  
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" height="30"/>  
+  <img src="https://img.shields.io/badge/Seaborn-268bd2?style=for-the-badge&logo=python&logoColor=white" height="30"/>  
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="30"/>  
 </p>  
 
 **Specialized Areas**: CNNs 🖼️ | ANNs 🧬 | RNNs 🔄 | Transformers 🔥 | **LLM Reasoning 🤖** | Generative AI ✨  

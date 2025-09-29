@@ -54,6 +54,21 @@ I'm an **AI/ML Engineer** and a **BS Computer Science student at GCUF** with a s
 </p>  
 
 ---
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lunar-stra95&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunar-stra95&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lunar-stra95&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lunar-stra95&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="GitHub Trophies"/>
+</p>
+
 
 ## 🤝 Connect with Me  
 
